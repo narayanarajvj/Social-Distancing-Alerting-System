@@ -46,6 +46,6 @@ The UI will look like the following image:
 The final Flask application can be hosted on the cloud or any server like pythonanywhere.  
 
 ## Useful Links:
-https://www.simplilearn.com/tutorials/deep-learning-tutorial/what-is-deep-learning
-https://medium.com/@jonathan_hui/understanding-feature-pyramid-networks-for-object-detection-fpn-45b227b9106c
-https://www.pyimagesearch.com/2017/11/06/deep-learning-opencvs-blobfromimage-works/
+https://www.simplilearn.com/tutorials/deep-learning-tutorial/what-is-deep-learning  
+https://medium.com/@jonathan_hui/understanding-feature-pyramid-networks-for-object-detection-fpn-45b227b9106c  
+https://www.pyimagesearch.com/2017/11/06/deep-learning-opencvs-blobfromimage-works/  
