@@ -1,4 +1,5 @@
 # Social-Distancing-Alerting-System
+> via fine-tuned YOLO v3 and Computer vision
 
 ## Project Summary:
 COVID-19 spread is emotionally challenging for many people, changing day-to-day life in unprecedented ways. All sections of society should play a vital role to protect themselves and each other and help prevent further spread of the disease. Social-distancing is an important way to slow down the spread of infectious diseases. People are asked to limit their interactions with each other, reducing the chances of the disease being spread with physical or close contact.  
@@ -24,7 +25,7 @@ Create another folder called **yolo-colo** which includes all the pre-trained YO
 In the below link you can download the cfg and weights files:  
 https://pjreddie.com/darknet/yolo/  
 
-Use the below video and save it as sample.mp4  
+Can use the below video and save it as **sample.mp4**  
 https://www.youtube.com/watch?v=WvhYuDvH17I&feature=youtu.be  
 
 In the configuration file, if we have GPU capable graphic card with Cuda installed, declare **USE_GPU** variable to **True** otherwise make it as false, this is to speed up the detection.   
