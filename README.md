@@ -22,13 +22,13 @@ This .py file contains people detection code using the YOLO algorithm. we will b
 This file contains all the necessary thresholds and constants required for social distancing detection.
 
 Create another folder called **yolo-colo** which includes all the pre-trained YOLO files.  
-In the below link you can download the cfg and weights files:  
+In the below link you can download the **Cfg** and **Weights** files and move it to yolo-coco folder:  
 https://pjreddie.com/darknet/yolo/  
 
 Can use the below video and save it as **sample.mp4**  
 https://www.youtube.com/watch?v=WvhYuDvH17I&feature=youtu.be  
 
-In the configuration file, if we have GPU capable graphic card with Cuda installed, declare **USE_GPU** variable to **True** otherwise make it as false, this is to speed up the detection.   
+In the configuration file, if we have GPU capable graphic card with Cuda installed, declare **USE_GPU** variable to **True** otherwise make it as false, this is to speed up the detection or make use of Google Colab.  
 Follow the below tutorial to install Cuda,  
 https://towardsdatascience.com/installing-tensorflow-with-cuda-cudnn-and-gpu-support-on-windows-10-60693e46e781  
 
